@@ -1,0 +1,64 @@
+/* Style the header */
+header {
+    text-align: center;
+    background-color: #333;
+    padding: 20px 0;
+    border-bottom: 3px solid black; 
+    border-right: 300px;
+  }
+  
+  /* Style the navigation menu */
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Style the navigation links */
+  nav ul li {
+    display: inline;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 14px 20px;
+    display: inline-block;
+  }
+  
+  /* Style the dropdown menu */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #333;
+    min-width: 160px;
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    display: block;
+    text-decoration: none;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  /* Style the dropdown button when hovered */
+  .dropdown:hover .dropbtn {
+    background-color: #555;
+  }
+
+  .main_box{
+    background: url("WhatsApp\ Image\ 2024-04-12\ at\ 14.30.43_ca01c677.jpg");
+    height: 100vh;
+    background-size: cover;
+}    
+  
