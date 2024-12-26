@@ -29,7 +29,7 @@ Rural women often face challenges in accessing critical resources due to lack of
 
      ```npm start ```
      
-** Video Demonstration**
+## Video Demonstration
 
 Watch the walkthrough of the Nidar Naari application to understand its features and functionality: [Click Here to Watch the Video](https://youtu.be/xmdm6qL3k-U?si=E8ijEvfiuko3EBhi)
   
